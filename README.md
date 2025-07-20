@@ -1,7 +1,6 @@
 
 
-
-**divyanshi579/divyanshi579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub prof# 💫 About Me:
+💫 About Me:
 I'm currently working on Machine Learning, Web Development.<br>
 I'm looking to collaborate on software development.
 <br>I'm currently learning Deep Learning and MERN Stack
